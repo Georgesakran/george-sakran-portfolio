@@ -21,7 +21,7 @@ export default function ResumeSection({ t }) {
             <p className="text-white font-bold">{t.cv_address}</p>
             <p>058-7400656</p>
             <p className="text-blue-400 hover:underline cursor-pointer">Gsakran14@gmail.com</p>
-            <p className="opacity-60 text-[10px]">linkedin.com/in/george-sakran-1890111a0</p>
+            <p className="text-blue-400 hover:underline cursor-pointer">linkedin.com/in/george-sakran-1890111a0</p>
           </div>
         </div>
 
