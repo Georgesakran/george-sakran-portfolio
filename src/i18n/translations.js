@@ -219,34 +219,34 @@ export const projectsData = [
       }
     }
   },
+  // {
+  //   id: 2,
+  //   icon: "📦",
+  //   tech: ["React Native", "Node.js", "MySQL", "ThreeJS"],
+  //   link: "https://github.com/georgesakran99/pack-smart-3d",
+  //   content: {
+  //     en: {
+  //       title: "PACK_SMART_3D",
+  //       sub: "3D AR COMPUTER VISION",
+  //       desc: "Augmented reality packaging optimization software engine configuring luggage sizing layouts using spatial parameter arrays.",
+  //       features: ["Dynamic 3D workspace projection rendering.", "Persistent structured relational data constraint tables."]
+  //     },
+  //     he: {
+  //       title: "PACK_SMART_3D",
+  //       sub: "מערכת תלת-ממד ואופטימיזציה מרחבית",
+  //       desc: "תוכנת מציאות רבודה המבצעת אופטימיזציה למרחבי אריזה ומחשבת סידורי כבודה באמצעות קואורדינטות מרחביות.",
+  //       features: ["הדמיה דינמית של מרחב עבודה בתלת-ממד.", "טבלאות נתונים יחסיות קבועות לשמירת אילוצי המבנה."]
+  //     },
+  //     ar: {
+  //       title: "PACK_SMART_3D",
+  //       sub: "رؤية حاسوبية وتحسين ثلاثي الأبعاد",
+  //       desc: "تطبيق واقع معزز لتحسين أبعاد التعبئة وحساب توزيع الأمتعة بناءً على مصفوفات البيانات المكانية.",
+  //       features: ["عرض ديناميكي ثلاثي الأبعاد لمساحة العمل.", "جداول بيانات علائقية لتخزين قيود الهيكل والأوزان."]
+  //     }
+  //   }
+  // },
   {
-    id: 2,
-    icon: "📦",
-    tech: ["React Native", "Node.js", "MySQL", "ThreeJS"],
-    link: "https://github.com/georgesakran99/pack-smart-3d",
-    content: {
-      en: {
-        title: "PACK_SMART_3D",
-        sub: "3D AR COMPUTER VISION",
-        desc: "Augmented reality packaging optimization software engine configuring luggage sizing layouts using spatial parameter arrays.",
-        features: ["Dynamic 3D workspace projection rendering.", "Persistent structured relational data constraint tables."]
-      },
-      he: {
-        title: "PACK_SMART_3D",
-        sub: "מערכת תלת-ממד ואופטימיזציה מרחבית",
-        desc: "תוכנת מציאות רבודה המבצעת אופטימיזציה למרחבי אריזה ומחשבת סידורי כבודה באמצעות קואורדינטות מרחביות.",
-        features: ["הדמיה דינמית של מרחב עבודה בתלת-ממד.", "טבלאות נתונים יחסיות קבועות לשמירת אילוצי המבנה."]
-      },
-      ar: {
-        title: "PACK_SMART_3D",
-        sub: "رؤية حاسوبية وتحسين ثلاثي الأبعاد",
-        desc: "تطبيق واقع معزز لتحسين أبعاد التعبئة وحساب توزيع الأمتعة بناءً على مصفوفات البيانات المكانية.",
-        features: ["عرض ديناميكي ثلاثي الأبعاد لمساحة العمل.", "جداول بيانات علائقية لتخزين قيود الهيكل والأوزان."]
-      }
-    }
-  },
-  {
-    id: 3, // Assigned high priority for layout prominence
+    id: 2, // Assigned high priority for layout prominence
     icon: "⚡",
     tech: ["React", "Node.js", "Playwright", "Socket.io", "MySQL"],
     link: "https://github.com/Georgesakran/automation-sentinel", // Replace with your exact repository URL if needed
