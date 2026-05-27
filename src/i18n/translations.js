@@ -4,7 +4,7 @@ export const translations = {
     label: 'EN',
     nav_projects: 'PROJECTS',
     nav_cv: 'CV',
-    hero_status: 'INITIALISING PORTFOLIO V2.6.0 • REINEH',
+    hero_status: 'INITIALISING PORTFOLIO • REINEH',
     hero_h1_1: 'ENGINEERED',
     hero_h1_2: 'EXCELLENCE.',
     hero_desc: 'Practical Software Engineer. Focused on bridging the gap between Complex Heuristics and Human-Centric Design.',
@@ -19,7 +19,7 @@ export const translations = {
     cv_sec_summary: 'PROFESSIONAL SUMMARY',
     cv_sec_skills: 'TECHNICAL STACK',
     cv_sec_experience: 'WORK EXPERIENCE',
-    cv_sec_projects: 'ACADEMIC PROTOTYPES',
+    cv_sec_projects: 'TECHNICAL PROJECTS',
     cv_sec_education: 'EDUCATION CREDENTIALS',
     cv_sec_languages: 'LANGUAGE ENGINES',
     projects_back_btn: "Projects List",
@@ -43,16 +43,16 @@ export const translations = {
     job2_company: 'Tosca Factory, Migdal Ha’Emek',
     job2_role: 'Production Area Manager',
     job2_points: [
-      "Led and managed production departments, overseeing daily operations and term performance.",
+      "Led and managed production departments, overseeing daily operations and team performance.",
       "Optimized workflow processes to meet strict production deadlines and quality standards.",
       "Demonstrated strong leadership, time management, and the ability to work under high pressure."
     ],
-    proj1_title: 'Full-Stack E-commerce Platform (Final Project)',
-    proj1_desc: 'Developed a comprehensive web-based store for sport apparel using React for the frontend and Node.js for the backend. Implemented a secure SQL database to manage products, categories, orders, and inventory with an admin dashboard.',
-    proj2_title: 'Cinema Management System',
-    proj2_desc: 'Built a desktop application using C# and MongoDB for movie scheduling and ticket purchasing with integrated order workflows.',
-    proj3_title: 'Restaurant Menu Application',
-    proj3_desc: 'Developed a mobile app using Kotlin and Android Studio to display categorized recipes and pricing structures.',
+    proj1_title: 'QuizFlow Pro — AI-Powered Active Learning Platform',
+    proj1_desc: 'Engineered a decoupled full-stack mobile platform using React Native and a Python microservice to automate educational flashcard generation via structured OpenAI API payload parsing into MongoDB.',
+    proj2_title: 'Automation Sentinel Server',
+    proj2_desc: 'Engineered a full-stack website telemetry platform utilizing Node.js and Playwright to run automated headless browser-level validation loops, decreasing failure detection latency.',
+    proj3_title: 'Full-Stack E-commerce Platform (Final Project)',
+    proj3_desc: 'Developed a comprehensive web-based store for sports apparel using React for the frontend and Node.js for the backend with a secure SQL database.',
     edu_date: '2021 - 2023',
     edu_school: 'Technion - School of Practical Engineering, Haifa',
     edu_degree: 'Software Practical Engineering Diploma (Handasai)',
@@ -65,7 +65,7 @@ export const translations = {
     label: 'עב',
     nav_projects: 'פרויקטים',
     nav_cv: 'קורות חיים',
-    hero_status: 'אתחול תיק עבודות V2.6.0 • ריינה',
+    hero_status: 'אתחול תיק עבודות • ריינה',
     hero_h1_1: 'הנדסת',
     hero_h1_2: 'מצוינות.',
     hero_desc: 'הנדסאי תוכנה. מתמחה בגישור הפער בין אלגוריתמים מורכבים לעיצוב ממוקד משתמש.',
@@ -108,12 +108,12 @@ export const translations = {
       "אופטימיזציה של תהליכי עבודה לעמידה בלוחות זמנים קשיחים ותקני איכות.",
       "הפגנת מנהיגות חזקה, ניהול זמן ויכולת עבודה תחת לחץ גבוה."
     ],
-    proj1_title: 'פלטפורמת מסחר אלקטروני Full-Stack (פרויקט גמר)',
-    proj1_desc: 'פיתוח חנות אינטרנטית מקיפה לביגود ספורט באמצעות React לפרונטאנד ו-Node.js לבקאנד. הטמעת מסד נתונים מאובטח של SQL לניהול מוצרים, הזמנות ומלאי עם לוח בקרה למנהלים.',
-    proj2_title: 'מערכת ניהול בית קולנוע',
-    proj2_desc: 'בניית אפליקציית דסקטופ באמצעות #C ו-MongoDB לתזמון סרטים ורכישת כרטיסים.',
-    proj3_title: 'אפליקציית תפריט מסעדה',
-    proj3_desc: 'פיתוח אפليקציה לנייד באמצעות Kotlin ו-Android Studio להצגת מתכונים ומחירונים לפי קטגוריות.',
+    proj1_title: 'QuizFlow Pro — פלטפורמת למידה אקטיבית מבוססת AI',
+    proj1_desc: 'פיתוח פלטפורמת מובייל מלאה (Full-Stack) בארכיטקטורה מבוזרת באמצעות React Native ומיקרו-סרוויס ב-Python, המאפשרת ייצור אוטומטי של כרטיסיות למידה על ידי ניתוח נתונים מובנים מ-OpenAI API וסנכרון מול MongoDB.',
+    proj2_title: 'מערכת ניטור וטלמטריה (Automation Sentinel)',
+    proj2_desc: 'מערכת ניטור אתרים מתקדמת מקצה לקצה המריצה לולאות אימות אוטומטיות ברמת הדפדפן באמצעות Playwright ו-Socket.io להפחתת זמני זיהוי תקלות.',
+    proj3_title: 'פלטפורמת מסחר אלקטרוני Full-Stack (פרויקט גמר)',
+    proj3_desc: 'פיתוח חנות אינטרנטית מקיפה לביגוד ספורט באמצעות React לפרונטאנד ו-Node.js לבקאנד עם מסד נתונים SQL מאובטח ולוח בקרה.',
     edu_date: '2021 - 2023',
     edu_school: 'הטכניון - בית הספר להנדסאים, חיפה',
     edu_degree: 'דיפלומת הנדסאי תוכנה',
@@ -126,7 +126,7 @@ export const translations = {
     label: 'عرب',
     nav_projects: 'المشاريع',
     nav_cv: 'السيرة الذاتية',
-    hero_status: 'تهيئة ملف الأعمال V2.6.0 • الرينة',
+    hero_status: 'تهيئة ملف الأعمال • الرينة',
     hero_h1_1: 'تميز',
     hero_h1_2: 'هندسي.',
     hero_desc: 'مهندس برمجيات عملي. متخصص في الربط بين المنطق البرمجي المعقد وتصميم واجهات المستخدم.',
@@ -165,16 +165,16 @@ export const translations = {
     job2_company: 'مصنع توسكا، مجدال هعيمك',
     job2_role: 'مدير منطقة الإنتاج',
     job2_points: [
-      "قيادة وإدارة أقسام الإنتاج، والإشراف على العمليات اليومية والأداء العام.",
+      "قيادة وإدارة أقسام الإنتاج، والإشراف على العمليات اليومية والأداء العام للفرق.",
       "تحسين سير العمل لتلبية المواعيد النهائية الصارمة للإنتاج ومعايير الجودة المطلوبة.",
       "إظهار مهارات قيادية قوية، إدارة الوقت، والقدرة على العمل بفعالية تحت الضغط العالي."
     ],
-    proj1_title: 'منصة التجارة الإلكترونية المتكاملة (مشروع التخرج)',
-    proj1_desc: 'تطوير متجر إلكتروني شامل للملابس الرياضية باستخدام React للواجهة الأمامية وNode.js للخلفية. بناء قاعدة بيانات SQL آمنة لإدارة المنتجات، الطلبات، والمخزون مع لوحة تحكم إدارية.',
-    proj2_title: 'نظام إدارة السينما',
-    proj2_desc: 'بناء تطبيق لسطح المكتب باستخدام #C وMongoDB لجدولة الأفلام وشراء التذاكر.',
-    proj3_title: 'تطبيق قائمة المطعم',
-    proj3_desc: 'تطوير تطبيق للهاتف المحمول باستخدام Kotlin وAndroid Studio لعرض الوصفات والأسعار مصنفة بدقة.',
+    proj1_title: 'QuizFlow Pro — منصة تعليمية تفاعلية مدعومة بالذكاء الاصطناعي',
+    proj1_desc: 'تطوير تطبيق هاتف متكامل (Full-Stack) باستخدام React Native متصل بخدمة مصغرة (Microservice) بلغة Python لإنشاء بطاقات تعليمية تلقائيًا عبر تحليل بيانات مجسمة من OpenAI API وحفظها في MongoDB.',
+    proj2_title: 'نظام المراقبة والقياس البعدي (Automation Sentinel)',
+    proj2_desc: 'منصة متكاملة لمراقبة المواقع وتشغيل حلقات تحقق مؤتمتة على مستوى المتصفح باستخدام Playwright وSocket.io لتقليل زمن اكتشاف الأعطال.',
+    proj3_title: 'منصة التجارة الإلكترونية المتكاملة (مشروع التخرج)',
+    proj3_desc: 'تطوير متجر إلكتروني شامل للملابس الرياضية باستخدام React للواجهة الأمامية وNode.js للخلفية مع بناء قاعدة بيانات SQL آمنة ولوحة تحكم إدارية.',
     edu_date: '2021 - 2023',
     edu_school: 'التخنيون - كلية الهندسة العملية، حيفا',
     edu_degree: 'دبلوم الهندسة العملية في البرمجيات (هندساي)',
@@ -186,13 +186,92 @@ export const translations = {
 
 export const skillsData = {
   languages: ["JavaScript (ES6+)", "Java", "C#", "Python", "Kotlin", "SQL"],
-  web: ["React", "React Native", "Node.js", "HTML5", "CSS3", "Socket.io"], // Injected Socket.io
+  web: ["React", "React Native", "Node.js", "HTML5", "CSS3", "Socket.io"],
   databases: ["MySQL", "MongoDB"],
-  tools: ["Git", "Playwright", "VS Code", "Android Studio", "Unix / Linux"], // Injected Playwright
-  concepts: ["QA Automation", "Data Structures", "OOP", "Networking", "Operating Systems"] // Injected QA Automation
+  tools: ["Git", "Playwright", "VS Code", "Android Studio", "Unix / Linux"],
+  concepts: ["QA Automation", "Data Structures", "OOP", "Networking", "Operating Systems"]
 };
 
 export const projectsData = [
+  {
+    id: 3,
+    icon: "🧠",
+    tech: ["React Native", "Python", "OpenAI API", "MongoDB"],
+    link: "https://github.com/Georgesakran/quizflow-pro",
+    content: {
+      en: {
+        title: "QUIZFLOW_PRO",
+        sub: "AI STUDY ENGINE",
+        desc: "An AI-powered full-stack learning platform featuring structured OpenAI generation pipelines and an animated, high-performance mobile study interface.",
+        features: [
+          "Implements native Animated API spring models to fluidly handle fast item layout transitions.",
+          "Features secure mobile navigation runtime guards and custom hardware back-button overriding.",
+          "Decoupled Python AI integration utilizing strict schema mapping to transform unstructured inputs into robust JSON."
+        ]
+      },
+      he: {
+        title: "QUIZFLOW_PRO",
+        sub: "מנוע למידה מבוסס בינה מלאכותית",
+        desc: "פלטפורמת למידה מתקדמת המשלבת ייצור אוטומטי של כרטיסיות למידה בעזרת OpenAI וממשק מובייל מהיר ומבוסס אנימציות ביצועים.",
+        features: [
+          "שימוש באנימציות קפיץ (Spring) של מנוע האנימציה הטבעי של React Native למעבר חלק בין פריטים.",
+          "הטמעת שומרי ניווט (Navigation Guards) ודריסת לחצן חומרה אחורי להגנה על שלמות הנתונים בזמן בחינה.",
+          "אינטגרציה מבוזרת מול שירותי AI בפייתון המבצעת מיפוי סכמה קשיח להפיכת קלט לא מובנה לנתוני JSON יציבים."
+        ]
+      },
+      ar: {
+        title: "QUIZFLOW_PRO",
+        sub: "محرك دراسة تفاعلي بالذكاء الاصطناعي",
+        desc: "منصة تعليمية متكاملة مدعومة بالذكاء الاصطناعي، تتميز بمسارات توليد بيانات منظمة عبر OpenAI وواجهة دراسة للهواتف المحمولة تعتمد على الأنيמישن عالي الأداء.",
+        features: [
+          "تطبيق نماذج حركية (Spring Animations) عبر واجهة המערכת לReact Native لمعالجة انتقالات واجهة المستخدم بسلاسة.",
+          "بناء أنظمة حماية ومراقبة أثناء التنقل لمنع الخروج المفاجئ وفقدان بيانات الجلسة النشطة.",
+          "ربط خدمة برمجية مصغرة بلغة Python للتحقق من هيكلة استجابات الذكاء الاصطناعي وتحويلها إلى كتل بيانات جاهزة للتطبيق."
+        ]
+      }
+    }
+  },
+  {
+    id: 2,
+    icon: "⚡",
+    tech: ["React", "Node.js", "Playwright", "Socket.io", "MySQL"],
+    link: "https://github.com/Georgesakran/automation-sentinel",
+    content: {
+      en: {
+        title: "AUTOMATION_SENTINEL",
+        sub: "TELEMETRY & RUNTIME MONITORING ENGINE",
+        desc: "A high-performance full-stack website monitoring system running automated browser-level verification loops instead of basic HTTP pings. Engineered to persistent storage layers and real-time streaming notifications.",
+        features: [
+          "Bypasses standard ping limitations utilizing Playwright instances to trace deep browser DOM lifecycles and latency spikes.",
+          "Implements low-latency Socket.io WebSocket servers to stream operational updates directly to the client interface.",
+          "Features an automated incident response subsystem routed via the Telegram Bot API with HTML diagnostic stack-traces.",
+          "Designed with isolated MySQL transactional mutation logic ensuring atomic telemetry historical record capture."
+        ]
+      },
+      he: {
+        title: "AUTOMATION_SENTINEL",
+        sub: "מערכת טלמטריה וניטור בזמן אמת",
+        desc: "מערכת ניטור אתרים מתקדמת מקצה לקצה המריצה לולאות אימות ברמת הדפדפן במקום בדיקות HTTP פשוטות. המערכת כוללת שכבת נתונים מאובטח והתראות בזמן אמת.",
+        features: [
+          "עקיפת מגבלות פינג סטנדרטיות באמצעות מנוע Playwright למעקב אחר מחזורי חיים של ה-DOM וקפיצות השהייה.",
+          "הטמעת שרת Socket.io (WebSockets) לשזירת עדכוני ביצועים ישירות לממשק המשתמש ללא צורך בריענון.",
+          "מערכת משנה תגובתית לאירועים המנותבת דרך Telegram Bot API עם מחרוזות אבחון מבוססות HTML בזמן כשל.",
+          "תכנון שכבת נתונים מבודדת ב-MySQL המבטיחה רישום אטומי והיסטורי של נתוני הטלמטריה ללא התנגשויות."
+        ]
+      },
+      ar: {
+        title: "AUTOMATION_SENTINEL",
+        sub: "محرك القياس البعدي ومراقبة وقت التشغيل",
+        desc: "منصة متكاملة عالية الأداء لمراقبة المواقع الإلكترونية، تشغل حلقات تحقق مؤتمتة على مستوى المتصفح بالكامل بدلاً من فحوصات HTTP البسيطة، مع دعم قواعد البيانات والبث الفوري للإشعارات.",
+        features: [
+          "تجاوز قيود فحص الاتصال التقليدي باستخدام محركات Playwright لتتبع دورة حياة واجهة الـDOM وطفرات التأخير.",
+          "بناء قنوات اتصال منخفضة التأخير باستخدام Socket.io لبث التحديثات التشغيلية مباشرة إلى واجهة المستخدم.",
+          "تطوير نظام استجابة فوري للحوادث مدمج مع واجهة برمجة تطبيقات Telegram لBroadcasting تقارير تشخيصية.",
+          "تصميم طبقة تخزين معزولة باستخدام عمليات MySQL الحصرية (Transactions) لضمان تسجيل السجلات التاريخية بشكل آمن."
+        ]
+      }
+    }
+  },
   {
     id: 1,
     icon: "⚙️",
@@ -215,74 +294,7 @@ export const projectsData = [
         title: "SMART_SUPPORT",
         sub: "البنية التحتية لإدارة العملاء",
         desc: "نظام توجيه مؤتمت مصمم لمساعدة فرق الدعم الفني في عمليات البحث السريع عن البيانات وحل مشكلات الخادم.",
-        features: ["دمج حلقات آمنة למזעור אובדן נתונים.", "تكوين معلمات البحث التلقائي عن الخادم مع تحسين الاستعلامات."]
-      }
-    }
-  },
-  // {
-  //   id: 2,
-  //   icon: "📦",
-  //   tech: ["React Native", "Node.js", "MySQL", "ThreeJS"],
-  //   link: "https://github.com/georgesakran99/pack-smart-3d",
-  //   content: {
-  //     en: {
-  //       title: "PACK_SMART_3D",
-  //       sub: "3D AR COMPUTER VISION",
-  //       desc: "Augmented reality packaging optimization software engine configuring luggage sizing layouts using spatial parameter arrays.",
-  //       features: ["Dynamic 3D workspace projection rendering.", "Persistent structured relational data constraint tables."]
-  //     },
-  //     he: {
-  //       title: "PACK_SMART_3D",
-  //       sub: "מערכת תלת-ממד ואופטימיזציה מרחבית",
-  //       desc: "תוכנת מציאות רבודה המבצעת אופטימיזציה למרחבי אריזה ומחשבת סידורי כבודה באמצעות קואורדינטות מרחביות.",
-  //       features: ["הדמיה דינמית של מרחב עבודה בתלת-ממד.", "טבלאות נתונים יחסיות קבועות לשמירת אילוצי המבנה."]
-  //     },
-  //     ar: {
-  //       title: "PACK_SMART_3D",
-  //       sub: "رؤية حاسوبية وتحسين ثلاثي الأبعاد",
-  //       desc: "تطبيق واقع معزز لتحسين أبعاد التعبئة وحساب توزيع الأمتعة بناءً على مصفوفات البيانات المكانية.",
-  //       features: ["عرض ديناميكي ثلاثي الأبعاد لمساحة العمل.", "جداول بيانات علائقية لتخزين قيود الهيكل والأوزان."]
-  //     }
-  //   }
-  // },
-  {
-    id: 2, // Assigned high priority for layout prominence
-    icon: "⚡",
-    tech: ["React", "Node.js", "Playwright", "Socket.io", "MySQL"],
-    link: "https://github.com/Georgesakran/automation-sentinel", // Replace with your exact repository URL if needed
-    content: {
-      en: {
-        title: "AUTOMATION_SENTINEL",
-        sub: "TELEMETRY & RUNTIME MONITORING ENGINE",
-        desc: "A high-performance full-stack website monitoring system running automated browser-level verification loops instead of basic HTTP pings. Engineered to persistent storage layers and real-time streaming notifications.",
-        features: [
-          "Bypasses standard ping limitations utilizing Playwright instances to trace deep browser DOM lifecycles and latency spikes.",
-          "Implements low-latency Socket.io WebSocket servers to stream operational updates directly to the client interface.",
-          "Features an automated incident response subsystem routed via the Telegram Bot API with HTML diagnostic stack-traces.",
-          "Designed with isolated MySQL transactional mutation logic ensuring atomic telemetry historical record capture."
-        ]
-      },
-      he: {
-        title: "AUTOMATION_SENTINEL",
-        sub: "מערכת טלמטריה וניטור בזמן אמת",
-        desc: "מערכת ניטור אתרים מתקדמת מקצה לקצה המריצה לולאות אימות ברמת הדפדפן במקום בדיקות HTTP פשוטות. המערכת כוללת שכבת נתונים מאובטחת והתראות בזמן אמת.",
-        features: [
-          "עקיפת מגבלות פינג סטנדרטיות באמצעות מנוע Playwright למעקב אחר מחזורי חיים של ה-DOM וקפיצות השהייה.",
-          "הטמעת שרת Socket.io (WebSockets) לשזירת עדכוני ביצועים ישירות לממשק המשתמש ללא צורך בריענון.",
-          "מערכת משנה תגובתית לאירועים המנותבת דרך Telegram Bot API עם מחרוזות אבחון מבוססות HTML בזמן כשל.",
-          "תכנון שכבת נתונים מבודדת ב-MySQL המבטיחה רישום אטומי והיסטורי של נתוני הטלמטריה ללא התנגשויות."
-        ]
-      },
-      ar: {
-        title: "AUTOMATION_SENTINEL",
-        sub: "محرك القياس البعدي ومراقبة وقت التشغيل",
-        desc: "منصة متكاملة عالية الأداء لمراقبة المواقع الإلكترونية، تشغل حلقات تحقق مؤتمتة على مستوى المتصفح بالكامل بدلاً من فحوصات HTTP البسيطة، مع دعم قواعد البيانات والبث الفوري للإشعارات.",
-        features: [
-          "تجاوز قيود فحص الاتصال التقليدي باستخدام محركات Playwright لتتبع دورة حياة واجهة ה-DOM وطفرات التأخير.",
-          "بناء قنوات اتصال منخفضة التأخير باستخدام Socket.io لبث التحديثات التشغيلية مباشرة إلى واجهة المستخدم.",
-          "تطوير نظام استجابة فوري للحوادث مدمج مع واجهة برمجة تطبيقات Telegram لBroadcasting تقارير تشخيصية.",
-          "تصميم طبقة تخزين معزولة باستخدام عمليات MySQL الحصرية (Transactions) لضمان تسجيل السجلات التاريخية بشكل آمن."
-        ]
+        features: ["دمج حلقات آمنة למزעور אובדن נתונים.", "تكوين معلمات البحث التلقائي عن الخادم مع تحسين الاستعلامات."]
       }
     }
   }
